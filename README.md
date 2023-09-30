@@ -7,12 +7,15 @@
 
 This repo holds a library that allows you to display real time clock on your application without any hassle.
 
-You can specify the format in which you want to display the clock as one of the props.
-You can check out the various format from moment(https://momentjscom.readthedocs.io/en/latest/moment/04-displaying/01-format/) and pass it as it. 
+First step is to specify the format in which you want to display the clock as one of the props.
 
-Next you also have to pass a delay timer as one of the props in order to refresh your clock. 
-By default it will refresh every 1 sec.
-[**Live Demo**](https://gapon2401.github.io/my-react-typescript-package/)
+Check out the various format from moment(https://momentjscom.readthedocs.io/en/latest/moment/04-displaying/01-format/) and pass it as it. 
+
+Second step is to pass a delay timer as one of the props in order to refresh your clock. 
+
+And now you're good to go...
+
+[**Live Demo**](https://shubh-37.github.io/clock-library/)
 
 ## Installation:
 
@@ -55,7 +58,7 @@ root.render(
 [npm-url]: https://www.npmjs.com/package/react-clock-component
 [npm-image]: https://img.shields.io/npm/v/react-clock-component
 [github-license]: https://img.shields.io/github/license/shubh-37/react-clock-component
-[github-license-url]: https://github.com/gapon2401/react-clock-component/blob/master/LICENSE
-[github-build]: https://github.com/gapon2401/react-clock-component/actions/workflows/publish.yml/badge.svg
-[github-build-url]: https://github.com/gapon2401/react-clock-component/actions/workflows/publish.yml
+[github-license-url]: https://github.com/shubh-37/react-clock-component/blob/master/LICENSE
+[github-build]: https://github.com/shubh-37/react-clock-component/actions/workflows/publish.yml/badge.svg
+[github-build-url]: https://github.com/shubh-37/react-clock-component/actions/workflows/publish.yml
 [npm-typescript]: https://img.shields.io/npm/types/react-clock-component
