@@ -1,6 +1,6 @@
 {
   "name": "react-clock-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This library helps you to display clock on your application without any hassle",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
