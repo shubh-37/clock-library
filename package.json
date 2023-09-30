@@ -1,5 +1,5 @@
 {
-  "name": "clock-library",
+  "name": "react-clock-component",
   "version": "1.0.0",
   "description": "This library helps you to display clock on your application without any hassle",
   "main": "./dist/cjs/index.js",
